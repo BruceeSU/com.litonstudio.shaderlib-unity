@@ -1,0 +1,12 @@
+{
+  "name": "com.litonstudio.shaderlib-unity",
+  "displayName": "LitonStudio.ShaderLib.Unity",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "keywords": [
+    "liton",
+    "shader",
+    "lib"
+  ],
+  "description": "My Common Shader Library"
+}
